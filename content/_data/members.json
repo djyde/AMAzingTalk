@@ -3,7 +3,8 @@
     "name": "Randy",
     "description": "独立博客 lutaonan.com 作者。开源爱好者。可以解答前端技术方面的疑问。",
     "avatar": "/images/avatars/randy.jpg",
-    "appointmentLink": "",
+    "appointmemtLink": "",
+    "showDetail": true,
     "price": "20 元/45分钟",
     "tags": [
       "前端",

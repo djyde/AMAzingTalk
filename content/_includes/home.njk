@@ -17,8 +17,8 @@
         </div>
 
         <div class="flex pt-12 gap-4">
-          <a class="bg-pink-800 border-2 border-pink-800 px-4 py-2 rounded-full font-bold" href="#">查看开放预约</a>
-          <a class="border-2 border-pink-900 px-4 py-2 rounded-full" href="/blog/how-to-join-list">加入咨询列表</a>
+          <a class="primary-button" href="#">查看开放预约</a>
+          <a class="secondary-button" href="/blog/how-to-join-list">加入咨询列表</a>
         </div>
       </div>
       <div class="basis-1/2 sm:pl-12 pt-12">
@@ -48,8 +48,11 @@
                 <span class="text-xs bg-pink-800 font-medium px-2 py-1 rounded">{{tag}}</span>
               {% endfor %}
             </div>
-            <div class="mt-4">
-              <a target="_blank" href="{{ member.appointmentLink }}" class="bg-pink-800 w-full block text-center text-white font-bold rounded-lg text-sm py-2">点击预约</a>
+            <div class="mt-4 flex flex-col gap-2">
+              <a target="_blank" href="{{ member.appointmentLink }}" class="primary-button text-xs w-full block text-center">点击预约</a>
+              {% if (member.showDetail) %}
+                <a target="_blank" href="/people/{{ member.name }}" class="secondary-button text-xs w-full block text-center">了解更多</a>
+              {% endif %}
             </div>
           </div>
         </div>
