@@ -3,7 +3,7 @@
     "name": "Randy",
     "description": "独立博客 lutaonan.com 作者。开源爱好者。可以解答前端技术方面的疑问。",
     "avatar": "/images/avatars/randy.jpg",
-    "appointmemtLink": "",
+    "appointmentLink": "",
     "price": "20 元/45分钟",
     "tags": [
       "前端",
@@ -14,7 +14,7 @@
     "name": "GeekPlux",
     "description": "独立博客 geekplux.com 作者，付费 newsletter 作者。爱折腾爱探索，可以聊数据可视化、金融、移民、前端。",
     "avatar": "/images/avatars/geekplux.jpg",
-    "appointmemtLink": "https://calendly.com/geekplux",
+    "appointmentLink": "https://calendly.com/geekplux",
     "price": "20 元/30分钟",
     "tags": [
       "数据可视化",
