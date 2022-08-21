@@ -3,7 +3,7 @@
 {% block body %}
   <div class="text-gray-300">
 
-    <div class="flex">
+    <div class="sm:flex">
       <div class="basis-1/2 px-12 pt-24 text-sm text-gray-300">
         <h1 class="text-4xl font-bold ">
           <span class="inline-block">AMA</span>
@@ -15,8 +15,13 @@
         <div class="prose text-gray-100 mt-12">
           {{ content | safe }}
         </div>
+
+        <div class="flex pt-12 gap-4">
+          <a class="bg-pink-800 border-2 border-pink-800 px-4 py-2 rounded-full font-bold" href="#">查看开放预约</a>
+          <a class="border-2 border-pink-900 px-4 py-2 rounded-full" href="/blog/how-to-join-list">加入咨询列表</a>
+        </div>
       </div>
-      <div class="basis-1/2 pl-12 pt-12">
+      <div class="basis-1/2 sm:pl-12 pt-12">
         <img class="w-full" src="/images/landing.webp"/>
       </div>
     </div>
@@ -52,7 +57,7 @@
 
     </section>
 
-    <section class="my-24">
+    <section class="my-24 sm:px-0 px-12">
       <h1 class="text-3xl text-center mb-12">常见问题</h1>
 
       <div class="container mx-auto max-w-[960px] flex flex-col gap-12">
