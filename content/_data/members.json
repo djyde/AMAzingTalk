@@ -13,10 +13,12 @@
   },
   {
     "name": "GeekPlux",
-    "description": "geekplux.com 独立博客作者，付费 newsletter 作者。爱折腾人士。可以聊数据可视化、金融、移民、前端。",
+    "description": "独立博客 geekplux.com 作者，付费 newsletter 作者。爱折腾爱探索，可以聊数据可视化、金融、移民、前端。",
     "avatar": "/images/avatars/geekplux.jpg",
-    "price": "20 元/45分钟",
+    "appointmentLink": "https://calendly.com/geekplux",
+    "price": "20 元/30分钟",
     "tags": [
+      "数据可视化",
       "金融",
       "职业发展",
       "出国"
