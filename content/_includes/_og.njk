@@ -1,3 +1,5 @@
 <meta property="og:title" content="{% if title %}{{title}}{% else %}{{config.siteTitle}}{% endif %}" />
+<meta property="og:description" content="{{ config.description }}" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="{{config.url}}{{page.url}}" />
+<meta property="og:image" content="{{config.url}}/images/landing.webp" />
+<meta property="og:url" content="{{config.url}}/{{page.url}}" />
