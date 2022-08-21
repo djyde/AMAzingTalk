@@ -11,8 +11,8 @@ title: 如何加入咨询列表
 
 ## 添加个人详情页
 
-1. 在 [people/](https://github.com/djyde/AMAzingTalk/tree/master/content/people) 加入以你的 `name` 为名的 `.md` 文件 (如 `Randy.md`)
-2. 参考 [Randy 的详情页](https://github.com/djyde/AMAzingTalk/tree/master/content/people/Randy.md) 进行写作。
+1. 在 [people/](https://github.com/djyde/AMAzingTalk/tree/master/content/people) 加入以你的 `name` 为名的 `.md` 文件 (如 `randy.md`)
+2. 参考 [Randy 的详情页](https://github.com/djyde/AMAzingTalk/tree/master/content/people/randy.md) 进行写作。
 3. 在 [_data/members.json](https://github.com/djyde/AMAzingTalk/blob/master/content/_data/members.json) 里你的信息中加入 `showDetail: true`
 ## 谁可以加入咨询列表
 
