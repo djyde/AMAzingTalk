@@ -37,5 +37,18 @@
       "产品",
       "设计"
     ]
+  },
+  {
+    "name": "geekdada",
+    "description": "网民，在德国工作的程序员。可以聊前端、出国工作、生活。",
+    "avatar": "/images/avatars/geekdada.jpg",
+    "appointmentLink": "https://tidycal.com/roy-li/amazing-talk-meeting",
+    "price": "8.99 欧元/30分钟",
+    "showDetail": true,
+    "tags": [
+      "前端",
+      "出国",
+      "职业发展"
+    ]
   }
 ]
