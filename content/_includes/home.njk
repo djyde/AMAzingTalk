@@ -1,0 +1,69 @@
+{% extends "layouts/base.njk" %}
+
+{% block body %}
+  <div class="text-gray-300">
+
+    <div class="flex">
+      <div class="basis-1/2 px-12 pt-24 text-sm text-gray-300">
+        <h1 class="text-4xl font-bold ">
+          <span class="inline-block">AMA</span>
+          <span class="-ml-1 inline-block ">zing Talk</span>
+        </h1>
+        <div>
+          Ask Me Anything
+        </div>
+        <div class="prose text-gray-100 mt-12">
+          {{ content | safe }}
+        </div>
+      </div>
+      <div class="basis-1/2 pl-12 pt-12">
+        <img class="w-full" src="/images/landing.webp"/>
+      </div>
+    </div>
+
+    <h1 class="text-center text-3xl my-12">
+      开放咨询
+    </h1>
+    <section class="md:max-w-[960px] md:mx-auto grid grid-cols-1 md:grid-cols-3 gap-12 my-24">
+      {% for member in members %}
+        <div  class="relative min-h-[512px] md:rounded-lg" style="background: linear-gradient(0deg,#191c21 0,rgba(25,28,33,.5) 50%,rgba(25,28,33,0) 90%) 50% no-repeat; ">
+          <div class="md:rounded-lg bg-cover bg-center opacity-30 absolute top-0 left-0 right-0 bottom-0" style="background-image: url({{member.avatar}})"></div>
+          <div class="p-4">
+            <span class="bg-gray-50 rounded-full text-xs py-1 px-2 text-gray-900 shadow-lg">{{member.price}}</span>
+          </div>
+          <div class="absolute bottom-0 right-0 left-0 p-4 flex flex-col gap-4">
+            <h2 class="text-3xl font-bold">
+              {{member.name}}
+            </h2>
+            <div class="text-sm">
+              {{member.description}}
+            </div>
+            <div class="flex gap-2">
+              {% for tag in member.tags %}
+                <span class="text-xs bg-pink-800 font-medium px-2 py-1 rounded">{{tag}}</span>
+              {% endfor %}
+            </div>
+            <div class="mt-4">
+              <a target="_blank" href="{{ member.appointmentLink }}" class="bg-pink-800 w-full block text-center text-white font-bold rounded-lg text-sm py-2">点击预约</a>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+
+    </section>
+
+    <section class="my-24">
+      <h1 class="text-3xl text-center mb-12">常见问题</h1>
+
+      <div class="container mx-auto max-w-[960px] flex flex-col gap-12">
+        {% for item in faq %}
+          <div>
+            <h2 class="text-2xl mb-2">{{item.q}}</h2>
+            <div class="text-sm">{{item.a}}</div>
+          </div>
+        {% endfor %}
+      </div>
+    </section>
+
+  </div>
+{% endblock %}
