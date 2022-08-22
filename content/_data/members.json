@@ -50,5 +50,18 @@
       "出国",
       "职业发展"
     ]
+  },
+  {
+    "name": "martin",
+    "description": "多年后端开发，从小公司到高速增长公司再到大公司，可以聊聊个人职场成长的心得与教训。",
+    "avatar": "/images/avatars/martin.jpg",
+    "appointmentLink": "https://calendly.com/himartin/1-on-1-with-martin",
+    "price": "30 元/30分钟",
+    "showDetail": true,
+    "tags": [
+      "后端开发",
+      "职场发展",
+      "新人建议"
+    ]
   }
 ]
