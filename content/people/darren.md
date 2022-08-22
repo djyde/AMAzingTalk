@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Randy Lu
+title: 王福强
 ---
 
 ![](/images/avatars/darren.jpg)
@@ -28,4 +28,4 @@ https://afoo.me
 
 ## 如果你决定预约咨询
 
-访问https://afoo.me/ama
+访问 https://afoo.me/ama
