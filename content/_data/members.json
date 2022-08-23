@@ -16,7 +16,8 @@
     "description": "独立博客 geekplux.com 作者，付费 newsletter 作者。爱折腾爱探索，可以聊数据可视化、金融、移民、前端。",
     "avatar": "/images/avatars/geekplux.jpg",
     "appointmentLink": "https://calendly.com/geekplux",
-    "price": "5 美元/30分钟",
+    "showDetail": true,
+    "price": "10 美元/30分钟",
     "tags": [
       "数据可视化",
       "金融",
@@ -35,6 +36,47 @@
       "Small Business",
       "产品",
       "设计"
+    ]
+  },
+  {
+    "name": "geekdada",
+    "description": "网民，在德国工作的程序员。可以聊前端、出国工作、生活。",
+    "avatar": "/images/avatars/geekdada.jpg",
+    "appointmentLink": "https://tidycal.com/roy-li/amazing-talk-meeting",
+    "price": "8.99 欧元/30分钟",
+    "showDetail": true,
+    "tags": [
+      "前端",
+      "出国",
+      "职业发展"
+    ]
+  },
+  {
+    "name": "martin",
+    "description": "多年后端开发，从小公司到高速增长公司再到大公司，可以聊聊个人职场成长的心得与教训。",
+    "avatar": "/images/avatars/martin.jpg",
+    "appointmentLink": "https://calendly.com/himartin/1-on-1-with-martin",
+    "price": "30 元/30分钟",
+    "showDetail": true,
+    "tags": [
+      "后端开发",
+      "职场发展",
+      "新人建议"
+    ]
+  },
+  {
+    "name": "扶墙老师",
+    "description": "王福强(aka. 扶墙老师), 《Spring揭秘》作者、《SpringBoot揭秘》作者, 独立顾问（20+年互联网与金融技术研发与管理经验）, 前 阿里巴巴资深架构师（很久很久以前）,会写代码的CTO, 如履薄冰的CEO😂",
+    "avatar": "/images/avatars/darren.jpg",
+    "appointmentLink": "https://afoo.me/ama",
+    "price": "1200 元/30分钟",
+    "showDetail": true,
+    "tags": [
+      "技术架构",
+      "组织管理",
+      "商业股权",
+      "职场发展",
+      "新人建议"
     ]
   }
 ]

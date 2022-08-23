@@ -43,7 +43,7 @@
             <div class="text-sm">
               {{member.description}}
             </div>
-            <div class="flex gap-2">
+            <div class="flex flex-wrap gap-2">
               {% for tag in member.tags %}
                 <span class="text-xs bg-pink-800 font-medium px-2 py-1 rounded">{{tag}}</span>
               {% endfor %}
@@ -57,7 +57,12 @@
           </div>
         </div>
       {% endfor %}
+    </section>
 
+    <section>
+      <div class="sm:max-w-[960px] px-12 sm:px-24 py-12 sm:mx-auto">
+        {% include "_subscribe.njk" %}
+      </div>
     </section>
 
     <section class="my-24 sm:px-0 px-12">
