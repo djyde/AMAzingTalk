@@ -3,9 +3,9 @@
     "name": "Randy",
     "description": "独立博客 lutaonan.com 作者。开源爱好者。可以解答前端技术方面的疑问。",
     "avatar": "/images/avatars/randy.jpg",
-    "appointmentLink": "https://calendly.com/randyloop/consulting",
+    "appointmentLink": "https://calendly.com/randyloop",
     "showDetail": true,
-    "price": "35 元/30分钟",
+    "price": "150 元/30分钟 300 元/1小时",
     "tags": [
       "前端",
       "前端职业发展"
@@ -17,7 +17,7 @@
     "avatar": "/images/avatars/geekplux.jpg",
     "appointmentLink": "https://calendly.com/geekplux",
     "showDetail": true,
-    "price": "10 美元/30分钟",
+    "price": "50 美元/30分钟 120美元/小时",
     "tags": [
       "数据可视化",
       "金融",
