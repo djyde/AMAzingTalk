@@ -5,7 +5,7 @@ title: geekdada
 
 ![](/images/avatars/geekdada.jpg)
 
-我是 geekdada，现在在柏林就职于 Klarna。我从业已经超过七年，此前在创业公司和阿里巴巴工作过。
+我是 geekdada，现在在柏林就职于 Klarna。我从业已经超过七年，此前在创业公司和阿里巴巴工作过（[LinkedIn](https://www.linkedin.com/in/roy-li-gz/)）。
 
 除了日常工作我也喜欢研究一些有趣的技术和维护开源项目。我也在维护着一个独立博客（https://royli.dev）。
 
@@ -17,4 +17,4 @@ title: geekdada
 
 ## 预约
 
-你可以预约 30 分钟的远程 1:1 会议，每次会议 8.99 欧。预约成功后你可以把你感兴趣的问题发送至我的邮箱 me \[at\] royli.dev，这样可以方便我提前准备。
+请前往 [这里](https://tidycal.com/roy-li) 预约。每周有少量的免费咨询名额。预约成功后你可以把你感兴趣的问题发送至我的邮箱 me \[at\] royli.dev，这样可以方便我提前准备。
