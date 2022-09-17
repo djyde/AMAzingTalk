@@ -15,9 +15,9 @@
     "name": "GeekPlux",
     "description": "独立博客 geekplux.com 作者，付费 newsletter 作者。可以聊可视化、金融、移民、前端，想认识更多 Creator",
     "avatar": "/images/avatars/geekplux.jpg",
-    "appointmentLink": "https://calendly.com/geekplux",
+    "appointmentLink": "https://cal.com/geekplux",
     "showDetail": true,
-    "price": "50 美元/30分钟 每周一次 Free Chat",
+    "price": "50 美元/30 分钟 每周一次 Free Chat",
     "tags": [
       "数据可视化",
       "金融",
