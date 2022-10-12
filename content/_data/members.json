@@ -92,5 +92,18 @@
       "UI UX 用户体验设计",
       "设计师个人成长"
     ]
+  },
+  {
+    "name": "FredWang",
+    "description": "Fred Wang, 在柏林工作的大龄码农，提供工作移民德国以及海外面试相关咨询。https://kenshinji.me",
+    "avatar": "/images/avatars/fred.png",
+    "appointmentLink": "https://cal.com/kenshinji/30-min-paid-consulting",
+    "price": "30欧/30分钟",
+    "showDetail": true,
+    "tags": [
+      "德国/欧洲工作移民",
+      "程序员海外面试",
+      "职业发展"
+    ]
   }
 ]
