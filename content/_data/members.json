@@ -92,5 +92,20 @@
       "UI UX 用户体验设计",
       "设计师个人成长"
     ]
+  },
+  {
+    "name": "Meathill",
+    "description": "全栈偏前端开发者，喜欢编程，希望把程序员作为终身职业。现居广州。可以聊前端、职业生涯、糖尿病自我管理。",
+    "avatar": "/images/avatars/meathill.jpg",
+    "appointmentLink": "https://calendly.com/realmeathill",
+    "price": "298 元/60分钟",
+    "showDetail": true,
+    "tags": [
+      "前端开发",
+      "职业发展",
+      "新人建议",
+      "慢性病自我管理",
+      "初创企业技术选型"
+    ]
   }
 ]
