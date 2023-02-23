@@ -107,5 +107,18 @@
       "慢性病自我管理",
       "初创企业技术选型"
     ]
+  },
+  {
+    "name": "李广洋",
+    "description": "数据方向程序员。在美国生活十余年。可以聊大数据开发，程序员职业发展，和美国生活与移民等话题。",
+    "avatar": "/images/avatars/guangyangli.jpg",
+    "appointmentLink": "https://cal.com/guangyangli",
+    "price": "60 美元/30 分钟 每周一次 Free Chat",
+    "showDetail": true,
+    "tags": [
+      "数据工程",
+      "职业发展",
+      "移居美国"
+    ]
   }
 ]
