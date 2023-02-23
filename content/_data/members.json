@@ -94,6 +94,19 @@
     ]
   },
   {
+    "name": "FredWang",
+    "description": "Fred Wang, 在柏林工作的大龄码农，提供工作移民德国以及海外面试相关咨询。https://kenshinji.me",
+    "avatar": "/images/avatars/fred.png",
+    "appointmentLink": "https://cal.com/kenshinji/30-min-paid-consulting",
+    "price": "30欧/30分钟",
+    "showDetail": true,
+    "tags": [
+      "德国/欧洲工作移民",
+      "程序员海外面试",
+      "职业发展"
+    ],
+  },
+  {
     "name": "Meathill",
     "description": "全栈偏前端开发者，喜欢编程，希望把程序员作为终身职业。现居广州。可以聊前端、职业生涯、糖尿病自我管理。",
     "avatar": "/images/avatars/meathill.jpg",
